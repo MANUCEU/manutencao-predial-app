@@ -1,7 +1,0 @@
-📁 manutencao-predial-app/
-├── index.html        ← Página principal do app
-├── manifest.json     ← Informações do PWA (instalável)
-├── service-worker.js ← Para funcionamento offline
-└── icons/            ← Pasta com os ícones
-    ├── icon-192.png
-    └── icon-512.png
